@@ -11,7 +11,7 @@ export const AboutSection = () => {
               Passionate Web Developer & Tech Creator
             </h3>
             <p className="text-muted-foreground text-base leading-relaxed">
-              With over 5 years of experience in web development, I specialize in creating responsive,
+              With a good experience in web development, I specialize in creating responsive,
               accessible, and performant web applications using modern technologies.
             </p>
             <p className="text-muted-foreground text-base leading-relaxed">

@@ -30,11 +30,13 @@ import { Navbar } from "../components/Navbar";
 import { HeroSection } from "../components/HeroSection";
 import { AboutSection } from "../components/AboutSection";
 import { SkillsSection } from "../components/SkillsSection";
+import { ProjectsSection } from "../components/ProjectsSection";
+import { ContactSection } from "../components/ContactSection";
 
 const Home = () => (
   <div className="min-h-screen">
     <ThemeToggle />
-    Home
+    
 
     <StarBackground/>
 
@@ -47,6 +49,10 @@ const Home = () => (
       
 
       <SkillsSection/>
+
+      <ProjectsSection/>
+
+      <ContactSection/>
 
     </main>
   </div>
